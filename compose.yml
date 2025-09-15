@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  unduckling:
+    image: ghcr.io/driftywinds/unduckling:latest
+    ports:
+      - "3274:80"
+    restart: unless-stopped
