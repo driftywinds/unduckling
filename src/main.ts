@@ -67,7 +67,7 @@ function renderSettingsUI() {
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; padding: 12px;">
       <div class="content-container">
         <h1>Quaack</h1>
-        <p><a href="https://unduck.link/">Unduck</a> and <a href="https://duckduckgo.com/bangs">DuckDuckGo's bangs</a> lack features. Add the following URL as a custom search engine to your browser to use Quaack's fast client-side redirects, including <a href="https://duckduckgo.com/bangs">all DuckDuckGo bangs</a>, custom bangs, and configurable default search engine. This search engine runs the code from <a href="https://github.com/driftywinds/unduckling/tree/quaack">here</a>.</p>
+        <p><a href="https://unduck.link/">Unduck</a> and <a href="https://duckduckgo.com/bangs">DuckDuckGo's bangs</a> lack features. Add the following URL as a custom search engine to your browser to use Quaack's fast client-side redirects, including all DuckDuckGo bangs, custom bangs, and configurable default search engine. This search engine runs the code from <a href="https://github.com/driftywinds/unduckling/tree/quaack">here</a>.</p>
         
         <div class="url-container"> 
           <input 
